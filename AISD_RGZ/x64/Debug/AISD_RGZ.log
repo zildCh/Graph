@@ -1,0 +1,190 @@
+﻿  main.cpp
+C:\Users\sasha\OneDrive\Рабочий стол\Учеба\АСД долг\РГЗ\AISD_RGZ\AISD_RGZ\main.cpp(203,20): warning C4101: tmp: неиспользованная локальная переменная
+C:\Users\sasha\OneDrive\Рабочий стол\Учеба\АСД долг\РГЗ\AISD_RGZ\AISD_RGZ\main.cpp(254,20): warning C4101: tmp: неиспользованная локальная переменная
+C:\Users\sasha\OneDrive\Рабочий стол\Учеба\АСД долг\РГЗ\AISD_RGZ\AISD_RGZ\main.cpp(274,20): warning C4101: tmp: неиспользованная локальная переменная
+C:\Users\sasha\OneDrive\Рабочий стол\Учеба\АСД долг\РГЗ\AISD_RGZ\AISD_RGZ\main.cpp(294,21): warning C4101: tmp1: неиспользованная локальная переменная
+C:\Users\sasha\OneDrive\Рабочий стол\Учеба\АСД долг\РГЗ\AISD_RGZ\AISD_RGZ\main.cpp(313,21): warning C4101: tmp1: неиспользованная локальная переменная
+C:\Users\sasha\OneDrive\Рабочий стол\Учеба\АСД долг\РГЗ\AISD_RGZ\AISD_RGZ\graph.h(530,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\sasha\OneDrive\Рабочий стол\Учеба\АСД долг\РГЗ\AISD_RGZ\AISD_RGZ\graph.h(529): message : во время компиляции функции-члена класс шаблон "EdgeT *GraphListForm<EdgeT>::getEdge(int,int)"
+          with
+          [
+              EdgeT=Edge<Vertex<std::string,int>,int,int>
+          ]
+C:\Users\sasha\OneDrive\Рабочий стол\Учеба\АСД долг\РГЗ\AISD_RGZ\AISD_RGZ\graph.h(1105): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "GraphListForm<EdgeT>"
+          with
+          [
+              EdgeT=Edge<Vertex<std::string,int>,int,int>
+          ]
+C:\Users\sasha\OneDrive\Рабочий стол\Учеба\АСД долг\РГЗ\AISD_RGZ\AISD_RGZ\main.cpp(9): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Graph<Vertex<std::string,int>,Edge<Vertex<std::string,int>,int,int>>::EdgeIterator"
+C:\Users\sasha\OneDrive\Рабочий стол\Учеба\АСД долг\РГЗ\AISD_RGZ\AISD_RGZ\graph.h(516,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\sasha\OneDrive\Рабочий стол\Учеба\АСД долг\РГЗ\AISD_RGZ\AISD_RGZ\graph.h(515): message : во время компиляции функции-члена класс шаблон "bool GraphListForm<EdgeT>::hasEdge(int,int)"
+          with
+          [
+              EdgeT=Edge<Vertex<std::string,int>,int,int>
+          ]
+C:\Users\sasha\OneDrive\Рабочий стол\Учеба\АСД долг\РГЗ\AISD_RGZ\AISD_RGZ\graph.h(483,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\sasha\OneDrive\Рабочий стол\Учеба\АСД долг\РГЗ\AISD_RGZ\AISD_RGZ\graph.h(482): message : во время компиляции функции-члена класс шаблон "int GraphListForm<EdgeT>::DeleteEsFromVertex(int)"
+          with
+          [
+              EdgeT=Edge<Vertex<std::string,int>,int,int>
+          ]
+C:\Users\sasha\OneDrive\Рабочий стол\Учеба\АСД долг\РГЗ\AISD_RGZ\AISD_RGZ\graph.h(465,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\sasha\OneDrive\Рабочий стол\Учеба\АСД долг\РГЗ\AISD_RGZ\AISD_RGZ\graph.h(464): message : во время компиляции функции-члена класс шаблон "bool GraphListForm<EdgeT>::DeleteE(int,int)"
+          with
+          [
+              EdgeT=Edge<Vertex<std::string,int>,int,int>
+          ]
+C:\Users\sasha\OneDrive\Рабочий стол\Учеба\АСД долг\РГЗ\AISD_RGZ\AISD_RGZ\graph.h(451,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\sasha\OneDrive\Рабочий стол\Учеба\АСД долг\РГЗ\AISD_RGZ\AISD_RGZ\graph.h(450): message : во время компиляции функции-члена класс шаблон "bool GraphListForm<EdgeT>::InsertE(int,int,EdgeT *)"
+          with
+          [
+              EdgeT=Edge<Vertex<std::string,int>,int,int>
+          ]
+C:\Users\sasha\OneDrive\Рабочий стол\Учеба\АСД долг\РГЗ\AISD_RGZ\AISD_RGZ\graph.h(429,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\sasha\OneDrive\Рабочий стол\Учеба\АСД долг\РГЗ\AISD_RGZ\AISD_RGZ\graph.h(428): message : во время компиляции функции-члена класс шаблон "bool GraphListForm<EdgeT>::DeleteV(int)"
+          with
+          [
+              EdgeT=Edge<Vertex<std::string,int>,int,int>
+          ]
+C:\Users\sasha\OneDrive\Рабочий стол\Учеба\АСД долг\РГЗ\AISD_RGZ\AISD_RGZ\graph.h(412,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\sasha\OneDrive\Рабочий стол\Учеба\АСД долг\РГЗ\AISD_RGZ\AISD_RGZ\graph.h(411): message : во время компиляции функции-члена класс шаблон "bool GraphListForm<EdgeT>::InsertV(int)"
+          with
+          [
+              EdgeT=Edge<Vertex<std::string,int>,int,int>
+          ]
+C:\Users\sasha\OneDrive\Рабочий стол\Учеба\АСД долг\РГЗ\AISD_RGZ\AISD_RGZ\graph.h(277,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\sasha\OneDrive\Рабочий стол\Учеба\АСД долг\РГЗ\AISD_RGZ\AISD_RGZ\graph.h(276): message : во время компиляции функции-члена класс шаблон "EdgeT *GraphMatrixForm<EdgeT>::getEdge(int,int)"
+          with
+          [
+              EdgeT=Edge<Vertex<std::string,int>,int,int>
+          ]
+C:\Users\sasha\OneDrive\Рабочий стол\Учеба\АСД долг\РГЗ\AISD_RGZ\AISD_RGZ\graph.h(1104): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "GraphMatrixForm<EdgeT>"
+          with
+          [
+              EdgeT=Edge<Vertex<std::string,int>,int,int>
+          ]
+C:\Users\sasha\OneDrive\Рабочий стол\Учеба\АСД долг\РГЗ\AISD_RGZ\AISD_RGZ\graph.h(265,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\sasha\OneDrive\Рабочий стол\Учеба\АСД долг\РГЗ\AISD_RGZ\AISD_RGZ\graph.h(264): message : во время компиляции функции-члена класс шаблон "bool GraphMatrixForm<EdgeT>::hasEdge(int,int)"
+          with
+          [
+              EdgeT=Edge<Vertex<std::string,int>,int,int>
+          ]
+C:\Users\sasha\OneDrive\Рабочий стол\Учеба\АСД долг\РГЗ\AISD_RGZ\AISD_RGZ\graph.h(240,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\sasha\OneDrive\Рабочий стол\Учеба\АСД долг\РГЗ\AISD_RGZ\AISD_RGZ\graph.h(239): message : во время компиляции функции-члена класс шаблон "int GraphMatrixForm<EdgeT>::DeleteEsFromVertex(int)"
+          with
+          [
+              EdgeT=Edge<Vertex<std::string,int>,int,int>
+          ]
+C:\Users\sasha\OneDrive\Рабочий стол\Учеба\АСД долг\РГЗ\AISD_RGZ\AISD_RGZ\graph.h(229,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\sasha\OneDrive\Рабочий стол\Учеба\АСД долг\РГЗ\AISD_RGZ\AISD_RGZ\graph.h(228): message : во время компиляции функции-члена класс шаблон "bool GraphMatrixForm<EdgeT>::DeleteE(int,int)"
+          with
+          [
+              EdgeT=Edge<Vertex<std::string,int>,int,int>
+          ]
+C:\Users\sasha\OneDrive\Рабочий стол\Учеба\АСД долг\РГЗ\AISD_RGZ\AISD_RGZ\graph.h(218,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\sasha\OneDrive\Рабочий стол\Учеба\АСД долг\РГЗ\AISD_RGZ\AISD_RGZ\graph.h(217): message : во время компиляции функции-члена класс шаблон "bool GraphMatrixForm<EdgeT>::InsertE(int,int,EdgeT *)"
+          with
+          [
+              EdgeT=Edge<Vertex<std::string,int>,int,int>
+          ]
+C:\Users\sasha\OneDrive\Рабочий стол\Учеба\АСД долг\РГЗ\AISD_RGZ\AISD_RGZ\graph.h(205,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\sasha\OneDrive\Рабочий стол\Учеба\АСД долг\РГЗ\AISD_RGZ\AISD_RGZ\graph.h(204): message : во время компиляции функции-члена класс шаблон "bool GraphMatrixForm<EdgeT>::DeleteV(int)"
+          with
+          [
+              EdgeT=Edge<Vertex<std::string,int>,int,int>
+          ]
+C:\Users\sasha\OneDrive\Рабочий стол\Учеба\АСД долг\РГЗ\AISD_RGZ\AISD_RGZ\graph.h(189,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\sasha\OneDrive\Рабочий стол\Учеба\АСД долг\РГЗ\AISD_RGZ\AISD_RGZ\graph.h(188): message : во время компиляции функции-члена класс шаблон "bool GraphMatrixForm<EdgeT>::InsertV(int)"
+          with
+          [
+              EdgeT=Edge<Vertex<std::string,int>,int,int>
+          ]
+C:\Users\sasha\OneDrive\Рабочий стол\Учеба\АСД долг\РГЗ\AISD_RGZ\AISD_RGZ\graph.h(1086,36): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+C:\Users\sasha\OneDrive\Рабочий стол\Учеба\АСД долг\РГЗ\AISD_RGZ\AISD_RGZ\graph.h(1084): message : во время компиляции функции-члена класс шаблон "VertexT *Graph<VertexT,Edge<VertexT,int,int>>::VertexIterator::operator *(void)"
+          with
+          [
+              VertexT=Vertex<std::string,int>
+          ]
+C:\Users\sasha\OneDrive\Рабочий стол\Учеба\АСД долг\РГЗ\AISD_RGZ\AISD_RGZ\main.cpp(348): message : выполняется компиляция ссылки на экземпляр шаблон функции "VertexT *Graph<VertexT,Edge<VertexT,int,int>>::VertexIterator::operator *(void)"
+          with
+          [
+              VertexT=Vertex<std::string,int>
+          ]
+C:\Users\sasha\OneDrive\Рабочий стол\Учеба\АСД долг\РГЗ\AISD_RGZ\AISD_RGZ\main.cpp(8): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Graph<Vertex<std::string,int>,Edge<Vertex<std::string,int>,int,int>>::VertexIterator"
+C:\Users\sasha\OneDrive\Рабочий стол\Учеба\АСД долг\РГЗ\AISD_RGZ\AISD_RGZ\graph.h(1078,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\sasha\OneDrive\Рабочий стол\Учеба\АСД долг\РГЗ\AISD_RGZ\AISD_RGZ\graph.h(1077): message : во время компиляции функции-члена класс шаблон "Graph<Vertex<std::string,int>,Edge<Vertex<std::string,int>,int,int>>::VertexIterator &Graph<Vertex<std::string,int>,Edge<Vertex<std::string,int>,int,int>>::VertexIterator::end(void)"
+C:\Users\sasha\OneDrive\Рабочий стол\Учеба\АСД долг\РГЗ\AISD_RGZ\AISD_RGZ\main.cpp(338): message : выполняется компиляция ссылки на экземпляр шаблон функции "Graph<Vertex<std::string,int>,Edge<Vertex<std::string,int>,int,int>>::VertexIterator &Graph<Vertex<std::string,int>,Edge<Vertex<std::string,int>,int,int>>::VertexIterator::end(void)"
+C:\Users\sasha\OneDrive\Рабочий стол\Учеба\АСД долг\РГЗ\AISD_RGZ\AISD_RGZ\graph.h(854,1): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\sasha\OneDrive\Рабочий стол\Учеба\АСД долг\РГЗ\AISD_RGZ\AISD_RGZ\graph.h(853): message : во время компиляции функции-члена класс шаблон "VertexT *Graph<VertexT,Edge<VertexT,int,int>>::InsertV(void)"
+          with
+          [
+              VertexT=Vertex<std::string,int>
+          ]
+C:\Users\sasha\OneDrive\Рабочий стол\Учеба\АСД долг\РГЗ\AISD_RGZ\AISD_RGZ\main.cpp(159): message : выполняется компиляция ссылки на экземпляр шаблон функции "VertexT *Graph<VertexT,Edge<VertexT,int,int>>::InsertV(void)"
+          with
+          [
+              VertexT=Vertex<std::string,int>
+          ]
+C:\Users\sasha\OneDrive\Рабочий стол\Учеба\АСД долг\РГЗ\AISD_RGZ\AISD_RGZ\main.cpp(7): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Graph<Vertex<std::string,int>,Edge<Vertex<std::string,int>,int,int>>"
+C:\Users\sasha\OneDrive\Рабочий стол\Учеба\АСД долг\РГЗ\AISD_RGZ\AISD_RGZ\graph.h(855,1): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\sasha\OneDrive\Рабочий стол\Учеба\АСД долг\РГЗ\AISD_RGZ\AISD_RGZ\graph.h(845,1): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\sasha\OneDrive\Рабочий стол\Учеба\АСД долг\РГЗ\AISD_RGZ\AISD_RGZ\graph.h(844): message : во время компиляции функции-члена класс шаблон "VertexT *Graph<VertexT,Edge<VertexT,int,int>>::InsertV(std::string)"
+          with
+          [
+              VertexT=Vertex<std::string,int>
+          ]
+C:\Users\sasha\OneDrive\Рабочий стол\Учеба\АСД долг\РГЗ\AISD_RGZ\AISD_RGZ\main.cpp(157): message : выполняется компиляция ссылки на экземпляр шаблон функции "VertexT *Graph<VertexT,Edge<VertexT,int,int>>::InsertV(std::string)"
+          with
+          [
+              VertexT=Vertex<std::string,int>
+          ]
+C:\Users\sasha\OneDrive\Рабочий стол\Учеба\АСД долг\РГЗ\AISD_RGZ\AISD_RGZ\graph.h(846,1): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\sasha\OneDrive\Рабочий стол\Учеба\АСД долг\РГЗ\AISD_RGZ\AISD_RGZ\graph.h(793,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\sasha\OneDrive\Рабочий стол\Учеба\АСД долг\РГЗ\AISD_RGZ\AISD_RGZ\graph.h(792): message : во время компиляции функции-члена класс шаблон "double Graph<Vertex<std::string,int>,Edge<Vertex<std::string,int>,int,int>>::K(void)"
+C:\Users\sasha\OneDrive\Рабочий стол\Учеба\АСД долг\РГЗ\AISD_RGZ\AISD_RGZ\main.cpp(138): message : выполняется компиляция ссылки на экземпляр шаблон функции "double Graph<Vertex<std::string,int>,Edge<Vertex<std::string,int>,int,int>>::K(void)"
+C:\Users\sasha\OneDrive\Рабочий стол\Учеба\АСД долг\РГЗ\AISD_RGZ\AISD_RGZ\graph.h(773,1): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\sasha\OneDrive\Рабочий стол\Учеба\АСД долг\РГЗ\AISD_RGZ\AISD_RGZ\graph.h(772): message : во время компиляции функции-члена класс шаблон "int Graph<Vertex<std::string,int>,Edge<Vertex<std::string,int>,int,int>>::V(void)"
+C:\Users\sasha\OneDrive\Рабочий стол\Учеба\АСД долг\РГЗ\AISD_RGZ\AISD_RGZ\main.cpp(122): message : выполняется компиляция ссылки на экземпляр шаблон функции "int Graph<Vertex<std::string,int>,Edge<Vertex<std::string,int>,int,int>>::V(void)"
+C:\Users\sasha\OneDrive\Рабочий стол\Учеба\АСД долг\РГЗ\AISD_RGZ\AISD_RGZ\graph.h(727,23): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\sasha\OneDrive\Рабочий стол\Учеба\АСД долг\РГЗ\AISD_RGZ\AISD_RGZ\graph.h(701): message : во время компиляции функции-члена класс шаблон "Graph<Vertex<std::string,int>,Edge<Vertex<std::string,int>,int,int>>::Graph(int,int,bool,bool)"
+C:\Users\sasha\OneDrive\Рабочий стол\Учеба\АСД долг\РГЗ\AISD_RGZ\AISD_RGZ\main.cpp(49): message : выполняется компиляция ссылки на экземпляр шаблон функции "Graph<Vertex<std::string,int>,Edge<Vertex<std::string,int>,int,int>>::Graph(int,int,bool,bool)"
+C:\Users\sasha\OneDrive\Рабочий стол\Учеба\АСД долг\РГЗ\AISD_RGZ\AISD_RGZ\graph.h(364,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\sasha\OneDrive\Рабочий стол\Учеба\АСД долг\РГЗ\AISD_RGZ\AISD_RGZ\graph.h(363): message : во время компиляции функции-члена класс шаблон "GraphMatrixForm<EdgeT>::OutputEdgeIterator &GraphMatrixForm<EdgeT>::OutputEdgeIterator::end(void)"
+          with
+          [
+              EdgeT=Edge<Vertex<std::string,int>,int,int>
+          ]
+C:\Users\sasha\OneDrive\Рабочий стол\Учеба\АСД долг\РГЗ\AISD_RGZ\AISD_RGZ\graph.h(1226): message : выполняется компиляция ссылки на экземпляр шаблон функции "GraphMatrixForm<EdgeT>::OutputEdgeIterator &GraphMatrixForm<EdgeT>::OutputEdgeIterator::end(void)"
+          with
+          [
+              EdgeT=Edge<Vertex<std::string,int>,int,int>
+          ]
+C:\Users\sasha\OneDrive\Рабочий стол\Учеба\АСД долг\РГЗ\AISD_RGZ\AISD_RGZ\graph.h(1236): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "GraphMatrixForm<EdgeT>::OutputEdgeIterator"
+          with
+          [
+              EdgeT=Edge<Vertex<std::string,int>,int,int>
+          ]
+C:\Users\sasha\OneDrive\Рабочий стол\Учеба\АСД долг\РГЗ\AISD_RGZ\AISD_RGZ\graph.h(1233): message : во время компиляции функции-члена класс шаблон "EdgeT *Graph<Vertex<std::string,int>,EdgeT>::OutputEdgeIterator::operator *(void)"
+          with
+          [
+              EdgeT=Edge<Vertex<std::string,int>,int,int>
+          ]
+C:\Users\sasha\OneDrive\Рабочий стол\Учеба\АСД долг\РГЗ\AISD_RGZ\AISD_RGZ\main.cpp(486): message : выполняется компиляция ссылки на экземпляр шаблон функции "EdgeT *Graph<Vertex<std::string,int>,EdgeT>::OutputEdgeIterator::operator *(void)"
+          with
+          [
+              EdgeT=Edge<Vertex<std::string,int>,int,int>
+          ]
+C:\Users\sasha\OneDrive\Рабочий стол\Учеба\АСД долг\РГЗ\AISD_RGZ\AISD_RGZ\main.cpp(10): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Graph<Vertex<std::string,int>,Edge<Vertex<std::string,int>,int,int>>::OutputEdgeIterator"
+C:\Users\sasha\OneDrive\Рабочий стол\Учеба\АСД долг\РГЗ\AISD_RGZ\AISD_RGZ\graph.h(1565,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\sasha\OneDrive\Рабочий стол\Учеба\АСД долг\РГЗ\AISD_RGZ\AISD_RGZ\graph.h(1560): message : во время компиляции функции-члена класс шаблон "std::vector<VertexT *,std::allocator<VertexT *>> TaskTwo<VertexT,Edge<VertexT,int,int>>::findBiggestCluster(std::vector<std::vector<VertexT *,std::allocator<VertexT *>>,std::allocator<std::vector<VertexT *,std::allocator<VertexT *>>>>)"
+          with
+          [
+              VertexT=Vertex<std::string,int>
+          ]
+C:\Users\sasha\OneDrive\Рабочий стол\Учеба\АСД долг\РГЗ\AISD_RGZ\AISD_RGZ\graph.h(1629): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::vector<VertexT *,std::allocator<VertexT *>> TaskTwo<VertexT,Edge<VertexT,int,int>>::findBiggestCluster(std::vector<std::vector<VertexT *,std::allocator<VertexT *>>,std::allocator<std::vector<VertexT *,std::allocator<VertexT *>>>>)"
+          with
+          [
+              VertexT=Vertex<std::string,int>
+          ]
+C:\Users\sasha\OneDrive\Рабочий стол\Учеба\АСД долг\РГЗ\AISD_RGZ\AISD_RGZ\main.cpp(547): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "TaskTwo<Vertex<std::string,int>,Edge<Vertex<std::string,int>,int,int>>"
+  AISD_RGZ.vcxproj -> C:\Users\sasha\OneDrive\Рабочий стол\Учеба\АСД долг\РГЗ\AISD_RGZ\x64\Debug\AISD_RGZ.exe
